@@ -1,0 +1,1 @@
+This repository containt a lot of ML based project and each explain how the data is being cleaned and what are the operations done for numerical categorical and other types of datas. it is also being trained using different algorithms
